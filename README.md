@@ -6,7 +6,7 @@ In this project, I execute an End-To-End Data Engineering Project on Real-Time S
 We are going to use different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
 
 ## Architecture 
-<img src="Architecture.jpg">
+<img src="Architecture.jpeg">
 
 ## Dataset Used
 You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline) 
